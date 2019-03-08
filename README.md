@@ -5,6 +5,12 @@ Code of python.
 From:
 Estefannie
 
+Her Instagram:
+https://www.instagram.com/estefanniegg/
+
+Reports concerning this project(Chinese Edition):
+https://tech.iotcomeon.com/2019/03/tech/develop/1106/
+
 *****************************************************
 
 Welcome to our website:
